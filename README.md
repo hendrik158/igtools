@@ -20,7 +20,7 @@ $ [Contributing](#contributing)
 $ [License](#license)
 
 ## Default or Basic Usage
-	$ git clone https://github.com/hendrik158/instagram-tools
+	$ git clone https://github.com/hendrik158/igtools
 	$ cd toolsig
 	$ unzip node_modules.zip
 	$ node index.js
@@ -28,14 +28,14 @@ $ [License](#license)
 ## Tutorial on Termux [ANDROID]
 	$ pkg install git
 	$ pkg install nodejs-lts
-	$ git clone https://github.com/hendrik158/instagram-tools && cd toolsig
+	$ git clone https://github.com/hendrik158/igtools && cd toolsig
 	$ unzip node_modules.zip
 	$ node index.js
 
 ## Tutorial on C9io/CodeAnywhere [CLOUD VPS]
 	# Pilih & Install Workspace + Package ke NodeJS
 	$ nvm install 10.7.0 && nvm use 10.7.0 && nvm alias default 10.7.0
-	$ git clone https://github.com/hendrik158/instagram-tools && cd toolsig
+	$ git clone https://github.com/hendrik158/igtools && cd toolsig
 	$ unzip node_modules.zip
 	$ node index.js
 
