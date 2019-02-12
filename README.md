@@ -23,6 +23,7 @@ $ [License](#license)
 	$ git clone https://github.com/hendrik158/igtools
 	$ cd toolsig
 	$ unzip node_modules.zip
+	$ cd igtools
 	$ node index.js
 
 ## Tutorial on Termux [ANDROID]
@@ -30,6 +31,7 @@ $ [License](#license)
 	$ pkg install nodejs-lts
 	$ git clone https://github.com/hendrik158/igtools && cd toolsig
 	$ unzip node_modules.zip
+	$ cd igtools
 	$ node index.js
 
 ## Tutorial on C9io/CodeAnywhere [CLOUD VPS]
@@ -37,6 +39,7 @@ $ [License](#license)
 	$ nvm install 10.7.0 && nvm use 10.7.0 && nvm alias default 10.7.0
 	$ git clone https://github.com/hendrik158/igtools && cd toolsig
 	$ unzip node_modules.zip
+	$ cd igtools
 	$ node index.js
 
 ## Tutorial on PC/LAPTOP [OS]
