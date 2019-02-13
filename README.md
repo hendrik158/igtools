@@ -38,8 +38,8 @@ $ [License](#license)
 	# Pilih & Install Workspace + Package ke NodeJS
 	$ nvm install 10.7.0 && nvm use 10.7.0 && nvm alias default 10.7.0
 	$ git clone https://github.com/hendrik158/igtools && cd toolsig
+	$ cd igtools 
 	$ unzip node_modules.zip
-	$ cd igtools
 	$ node index.js
 
 ## Tutorial on PC/LAPTOP [OS]
